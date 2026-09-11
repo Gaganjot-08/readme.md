@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gaganjot Kaur</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anant1507&label=Profile%20views&color=0e75b6&style=flat" alt="Gaganjot-08" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gaganjot-08&label=Profile%20views&color=0e75b6&style=flat" alt="Gaganjot-08" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anant1507" alt="anant1507" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gaganjot-08" alt="Gaganjot-08" /></a> </p>
 
 - 🌱 I’m currently learning **Unrealengine**
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anantveer1507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anantveer1507" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anantveer singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anantveer singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Gaganjot Kaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gaganjot Kaur" height="30" width="40" /></a>
 <a href="https://instagram.com/anant15.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anant15.07" height="30" width="40" /></a>
 </p>
 
