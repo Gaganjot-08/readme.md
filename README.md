@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anantveer Singh</h1>
+<h1 align="center">Hi 👋, I'm Gaganjot Kaur</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anant1507&label=Profile%20views&color=0e75b6&style=flat" alt="anant1507" /> </p>
